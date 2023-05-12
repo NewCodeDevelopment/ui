@@ -1,6 +1,6 @@
 {
   "name": "@newcode/ui",
-  "private": true,
+  "private": false,
   "version": "0.0.1",
   "main": "./dist/@newcode/ui.umd.js",
   "module": "./dist/@newcode/ui.es.js",
