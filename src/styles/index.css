@@ -1,0 +1,19 @@
+@import "./colors.css";
+@import "./font.css";
+@import "./navigation.css";
+@import "./spacing.css";
+@import "./utility.css";
+@import "./animation.css";
+@import "./section.css";
+@import "./input.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @extend .no-scrollbar;
+  @apply bg-dark-700 whitespace-pre-line lg:overflow-hidden;
+  /* lg:overflow-hidden */
+}
+/* scroll-smooth */
