@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/NewCodeDevelopment/ui/compare/v1.1.0...v1.2.0) (2023-05-12)
+
+
+### Features
+
+* readme description ([5bb271c](https://github.com/NewCodeDevelopment/ui/commit/5bb271c6784cf3f5f8bf9c3233b26a58bdfd0bb0))
+
 ## [1.1.0](https://github.com/NewCodeDevelopment/ui/compare/v1.0.0...v1.1.0) (2023-05-12)
 
 
