@@ -1,5 +1,7 @@
 # NewCode UI
 
+The NewCode design system
+
 ## Using the library in a React frontend app
 
 Install the library running `yarn add @newcode/ui`.
