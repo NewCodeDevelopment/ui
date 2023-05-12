@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/NewCodeDevelopment/ui/compare/v1.0.0...v1.1.0) (2023-05-12)
+
+
+### Features
+
+* public package ([e484982](https://github.com/NewCodeDevelopment/ui/commit/e48498280a7acf29ec64ee6b65430a6a364e586c))
+
 ## 1.0.0 (2023-05-12)
 
 
