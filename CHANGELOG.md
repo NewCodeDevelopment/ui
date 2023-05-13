@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/NewCodeDevelopment/ui/compare/v1.2.0...v1.3.0) (2023-05-13)
+
+
+### Features
+
+* public publish ([fe5fe77](https://github.com/NewCodeDevelopment/ui/commit/fe5fe778b31d7fecfcf57b042532963c08380925))
+
 ## [1.2.0](https://github.com/NewCodeDevelopment/ui/compare/v1.1.0...v1.2.0) (2023-05-12)
 
 
