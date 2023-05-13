@@ -42,7 +42,7 @@ jobs:
         if: ${{ steps.release.outputs.releases_created }}
 
       - name: Publish
-        run: yarn publish
+        run: yarn publish --access public
         if: ${{ steps.release.outputs.releases_created }}
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}

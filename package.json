@@ -1,10 +1,15 @@
 {
   "name": "@newcode/ui",
   "private": false,
-  "version": "1.1.0",
+  "version": "0.0.1",
   "main": "./dist/@newcode/ui.umd.js",
   "module": "./dist/@newcode/ui.es.js",
   "types": "dist/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "NewCode",
+    "email": "burak@newcode.be"
+  },
   "exports": {
     ".": {
       "import": "./dist/@newcode/ui.es.js",
