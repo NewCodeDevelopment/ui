@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/NewCodeDevelopment/ui/compare/v0.1.0...v0.2.0) (2023-05-13)
+
+
+### Features
+
+* auto release in main branch ([6aedbb7](https://github.com/NewCodeDevelopment/ui/commit/6aedbb78e5c4c7841b00740ede2c8468d8e976c0))
+
 ## [0.1.0](https://github.com/NewCodeDevelopment/ui/compare/v0.0.1...v0.1.0) (2023-05-13)
 
 
