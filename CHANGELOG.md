@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/NewCodeDevelopment/ui/compare/v0.2.0...v0.2.1) (2023-05-24)
+
+
+### Bug Fixes
+
+* node version change ([0559497](https://github.com/NewCodeDevelopment/ui/commit/05594974ab779c01910c51b3e83f0f5ef6f29b0e))
+
 ## [0.2.0](https://github.com/NewCodeDevelopment/ui/compare/v0.1.0...v0.2.0) (2023-05-13)
 
 
